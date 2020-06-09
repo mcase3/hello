@@ -11,7 +11,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Markus Case, Andrew Aldana\n");
+  printf("Markus Case\n");
   
   printf("Mechanical Engineering\n"); 
 
